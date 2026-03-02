@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\Tecnologias Desarrollo Web\\CleanTeeth\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5220C6F-B820-403F-82F7-94411091B5ED}|CleanTeeth.Domain\\CleanTeeth.Domain.csproj|e:\\tecnologias desarrollo web\\cleanteeth\\cleanteeth.domain\\entities\\dentist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5220C6F-B820-403F-82F7-94411091B5ED}|CleanTeeth.Domain\\CleanTeeth.Domain.csproj|solutionrelative:cleanteeth.domain\\entities\\dentist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5220C6F-B820-403F-82F7-94411091B5ED}|CleanTeeth.Domain\\CleanTeeth.Domain.csproj|e:\\tecnologias desarrollo web\\cleanteeth\\cleanteeth.domain\\entities\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5220C6F-B820-403F-82F7-94411091B5ED}|CleanTeeth.Domain\\CleanTeeth.Domain.csproj|solutionrelative:cleanteeth.domain\\entities\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +18,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dentist.cs",
+              "DocumentMoniker": "E:\\Tecnologias Desarrollo Web\\CleanTeeth\\CleanTeeth.Domain\\Entities\\Dentist.cs",
+              "RelativeDocumentMoniker": "CleanTeeth.Domain\\Entities\\Dentist.cs",
+              "ToolTip": "E:\\Tecnologias Desarrollo Web\\CleanTeeth\\CleanTeeth.Domain\\Entities\\Dentist.cs",
+              "RelativeToolTip": "CleanTeeth.Domain\\Entities\\Dentist.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T17:59:12.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "E:\\Tecnologias Desarrollo Web\\CleanTeeth\\CleanTeeth.Domain\\Entities\\Patient.cs",
+              "RelativeDocumentMoniker": "CleanTeeth.Domain\\Entities\\Patient.cs",
+              "ToolTip": "E:\\Tecnologias Desarrollo Web\\CleanTeeth\\CleanTeeth.Domain\\Entities\\Patient.cs",
+              "RelativeToolTip": "CleanTeeth.Domain\\Entities\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T17:45:56.848Z",
+              "EditorCaption": ""
             }
           ]
         }
